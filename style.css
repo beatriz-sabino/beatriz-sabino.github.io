@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    font-family: 'Lora', serif;
+    background-image: url(images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg);
+    background-size: cover;
+    color: white;
+}
+
+
+h1 {
+    font-size: 55px;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+
+h3 {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+h5 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 25px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(1,128,173);
+    color: white;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 4px;
+  }
+  
+.button:hover {
+    background-color: rgba(1,128,173,0.7);
+  }
+
+.list li {
+    display: inline
+}
+
+.list a {
+    color: white;
+    padding-left: 25px;
+    margin-right: 60px;
+    text-decoration: none;
+    font-size: 40px;
+
+}
+
+.list a:hover {
+    color: rgba(1,128,173,0.7)
+}
+
+footer {
+    text-align: right;
+}
